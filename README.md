@@ -44,12 +44,7 @@ or
 ---
 
 ### Not working ❓
-
-- If you are **unable to launch MAS** using the PowerShell method, please refer to **Method 2** listed above.
-- If MAS is launched and the script shows any errors, check for any troubleshooting steps mentioned in blue color and try to follow those.
-- If you have any issues, please feel free to reach out to us [here](https://massgrave.dev/troubleshoot).
-
----
+<h1 align="center">Blur Background Folder</h1>
 
 > [!NOTE]
 >
@@ -57,14 +52,10 @@ or
 > - Always double-check the URL before executing the command and verify the source if manually downloading files.
 > - Be cautious, as some spread malware disguised as MAS by using different URLs in the IRM command.
 
----
 
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches).
 
-```
-Latest Version: 3.0
-Release date: 14-Feb-2025
-```
+
+
 
 ### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
 ### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
