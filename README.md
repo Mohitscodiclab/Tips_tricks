@@ -1,54 +1,73 @@
-# Microsoft Activation Scripts (MAS)
+# ⭐ **Microsoft Activation Scripts (MAS)** ⭐
 
-Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+🔹 **An Open-Source Windows and Office Activator** featuring **HWID, Ohook, TSforge, KMS38**, and **Online KMS activation methods**, along with advanced troubleshooting tools.
 
-Download / How to use it?
+---
 
-Method 1 - PowerShell (Windows 8 and later) ❤️
+## 🚀 **Download / How to Use It?**
 
-Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select PowerShell or Terminal.
+### 🔹 **Method 1 - PowerShell (Windows 8 and Later)** ❤️
 
-Copy and paste the code below and press enter:
+1️⃣ **Open PowerShell** (*Not CMD*). To do that, right-click on the **Windows Start Menu** and select **PowerShell** or **Terminal**.
 
-irm https://get.activated.win | iex
+2️⃣ **Copy and paste the command below** and press **Enter**:
 
-Alternatively, you can use the following (It will be deprecated in the future):
+   ```powershell
+   irm https://get.activated.win | iex
+   ```
 
-irm https://massgrave.dev/get | iex
+   💡 *Alternatively, you can use the following command (*⚠ **Deprecated in the future** ⚠):*
+   ```powershell
+   irm https://massgrave.dev/get | iex
+   ```
 
-You will see the activation options. Choose (1) HWID for Windows activation. Choose (2) Ohook for Office activation.
+3️⃣ **Choose your activation option:**
+   - **(1) HWID** for Windows Activation.
+   - **(2) Ohook** for Office Activation.
 
-That's all.
+4️⃣ **That's it! Enjoy your activated software.** ✅
 
-Method 2 - Traditional (Windows 7 and later)
+---
 
-Click here for more information.
+### 🔹 **Method 2 - Traditional (Windows 7 and Later)**
 
-Not working ❓
+📌 Click **[here](#)** for more information.
 
-If you are unable to launch MAS using the PowerShell method, please refer to Method 2 listed above.
+---
 
-If MAS is launched and the script shows any errors, check for any troubleshooting steps mentioned in blue color and try to follow those.
+## ❓ **Troubleshooting (Not Working?)**
 
-If you have any issues, please feel free to reach out to us here.
+⚠ **If you are unable to launch MAS** using the PowerShell method, refer to **Method 2** listed above.
 
-⚠ Note
+⚠ **Encountering Errors?** If MAS runs but shows errors, check the troubleshooting steps (*highlighted in blue*) and follow them.
 
-The IRM command in PowerShell downloads a script from a specified URL, and the IEX command executes it.
+⚠ **Need Help?** Feel free to reach out to us **[here](#)**.
 
-Always double-check the URL before executing the command and verify the source if manually downloading files.
+---
 
-Be cautious, as some spread malware disguised as MAS by using different URLs in the IRM command.
+## ⚠ **Important Notes**
 
-To run the scripts in unattended mode, check here.
+🛑 The **IRM command in PowerShell** downloads a script from a specified URL, and the **IEX command executes it**.
 
-Troubleshooting / Help
+🔍 **Always verify URLs before executing commands** to ensure security.
 
-Download Original Windows & Office
+🚨 **Be cautious** ⚠, as some malware disguises itself as MAS using different URLs in the IRM command.
 
-Homepage
+📌 To run the scripts in unattended mode, check **[here](#)**.
 
-https://massgrave.dev/
+---
 
-Made with Love ❤️
+## 🔧 **Troubleshooting / Help**
+
+🔹 **[Download Original Windows & Office](#)**
+
+---
+
+## 🌐 **Homepage**
+
+🔗 **[https://massgrave.dev/](https://massgrave.dev/)**
+
+---
+
+❤️ **Made with Love & Dedication!** ❤️
 
