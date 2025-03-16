@@ -31,7 +31,7 @@
 
 ### 🔹 **Method 2 - Traditional (Windows 7 and Later)**
 
-📌 Click **[here](#)** for more information.
+📌 Click **[here](https://massgrave.dev/troubleshoot)** for more information.
 
 ---
 
