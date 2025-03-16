@@ -53,7 +53,7 @@
 
 🚨 **Be cautious** ⚠, as some malware disguises itself as MAS using different URLs in the IRM command.
 
-📌 To run the scripts in unattended mode, check **[here](#)**.
+📌 To run the scripts in unattended mode, check **[here](https://massgrave.dev/command_line_switches)**.
 
 ---
 
