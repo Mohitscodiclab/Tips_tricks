@@ -81,4 +81,3 @@ cd repo-name
 
 You now have a local copy of the GitHub repository and can start working on it using Git commands.
 
-```
