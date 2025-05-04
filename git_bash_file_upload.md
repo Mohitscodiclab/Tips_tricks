@@ -1,6 +1,5 @@
 ### 📘 How to upload files on Github using Git bash
 
-````markdown
 # Uploading Files to GitHub Using Git Bash
 
 This guide provides step-by-step instructions on how to upload (push) your project files to a GitHub repository using Git Bash.
