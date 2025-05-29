@@ -1,4 +1,3 @@
-**README.txt**
 **Shortcut Name:** Restart to BIOS
 **Purpose:** Restarts the system and boots directly into BIOS/UEFI settings.
 
