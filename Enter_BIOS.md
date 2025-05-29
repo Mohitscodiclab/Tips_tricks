@@ -13,7 +13,7 @@ shutdown /r /fw /t 1
 
 * `/r` → Restarts the computer.
 * `/fw` → Ensures the computer enters firmware (BIOS/UEFI) on next boot.
-* `/t 1` → Sets a 1-second delay before the restart begins.
+* `/t 1` → Sets a 1-second delay before the restart begins. 
 
 ---
 
