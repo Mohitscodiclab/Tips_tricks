@@ -9,7 +9,7 @@ Hey there! I'm glad you're here. If you're looking to spice up your GitHub profi
 With [RepoLaunch](https://repolaunch.com/), customizing your GitHub profile has never been easier. Follow these simple steps:
 
 ### 🛠 Steps to Customize:
-1. Go to **[https://repolaunch.com/](https://repolaunch.com/)**
+1. Go to **[This Website](https://repolaunch.com/)**
 2. Fill in all your personal and professional details — it's quick and straightforward.
 3. Copy the generated markdown content.
 4. Go to your **GitHub account**.
