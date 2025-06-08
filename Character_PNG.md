@@ -18,7 +18,7 @@ Welcome to the **Free Character PNGs Pack** – a collection of high-quality tra
 1. Go to the **[Releases](https://github.com/your-username/your-repo-name/releases)** section of this repository.
 2. Click on the latest release.
 3. Scroll down to the **Assets** section.
-4. Download the `.zip` file containing all PNGs.
+4. Download the `Character.zip` file containing all PNGs.
 
 ---
 
