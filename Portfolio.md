@@ -79,7 +79,7 @@
 
 ## 📣 Let's Connect
 
-- 📝 Write Blogs on [Dev.to](https://dev.to/yourusername)
+- 📝 Write Blogs on [Dev.to](https://dev.to/mohitscodiclab)
 - 🤝 Collaborate on Open Source
 - 💬 DM me on Discord/LinkedIn
 
