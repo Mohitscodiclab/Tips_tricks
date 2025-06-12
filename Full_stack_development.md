@@ -189,7 +189,7 @@ Before diving into code, ensure you're solid on:
 
 🌐 Portfolio: *[https://mohitscodiclab.github.io/Portfolio/]*  
 🐱 GitHub: *[https://github.com/Mohitscodiclab]*  
-📧 Email: *[devillucifer805126@gmail.com]*  
+📧 Email: *[luciferdevil805126@gmail.com]*  
 📝 Blog: *[yourblog.dev]*
 
 > “First, solve the problem. Then, write the code.” – John Johnson
