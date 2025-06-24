@@ -1,33 +1,40 @@
-Blur folder background
+## 🔷 How to Enable Blur Background in Windows Explorer Folders
 
- Go to chrome 
-search for "bit.ly/blurwin"
-hit Enter
-Look right hand side you find a New relese section
-open the Latest one on the top of the relese list
-scroll to the bottom of the new webpage appers
-now go to the contributers section and 
-Download the latest file with "x64.zip" Extention
+### 📥 Step 1: Download the Required File
 
+1. Open **Google Chrome** (or any browser).
+2. Visit the link: [bit.ly/blurwin](https://bit.ly/blurwin)
+3. On the **right-hand side**, locate the **"Releases"** section.
+4. Click on the **topmost/latest release** in the list.
+5. Scroll to the **bottom of the page**.
+6. In the **"Contributors"** or **"Assets"** section, download the latest file with the name ending in **`x64.zip`**.
 
-After the Download complete 
+> ⚠️ *Ensure you are downloading the correct file. If the next steps don’t show expected files, you may have downloaded the wrong version.*
 
+---
 
-open that folder and open the RELESE folder 
-There you find 4 unique fies , If not found then you have downloaded the WRONG FILE
-Then copy(ctrl + c) all files
-Then go to ':c' Drive 
-Open the "Programs Files"
-Past(ctrl + v) all files that u have copied  [ALLOW ALL THE PERMISSIONS IF ASKED]
-scroll to the bottom there u find all the pasted files
-Run the "RAGISTER" file {ALLOW ALL THE PERMISSIONS IF ASKED}
-Then you will see a magic 
-open any folder you find beautiful blur background 
+### 📂 Step 2: Extract & Install
 
+1. After the download is complete, **extract** the ZIP file.
+2. Open the extracted folder and navigate to the **`RELEASE`** folder.
+3. You should see **4 unique files**. If not, recheck your download.
+4. Select all files and **copy** them (Ctrl + C).
+5. Go to your **C: Drive > Program Files**.
+6. **Paste** the copied files (Ctrl + V).
 
-To delete this file 
+   * Click **"Yes" or "Allow"** if any permission prompt appears.
+7. Scroll down to the newly pasted files.
+8. **Run the file named `REGISTER`** (Right-click > Run as Administrator if needed).
 
+   * Again, **allow all permissions** if prompted.
 
-Go to :c Drive ---> Program Files 
-Run the Uninstall file
-then it will remove the blur folder effect 
+> 🎉 Once installed, open any folder—you’ll now see a stunning **blur background effect**.
+
+---
+
+### 🧹 To Uninstall
+
+1. Open **C: Drive > Program Files**.
+2. Locate the installed folder.
+3. Run the **`UNINSTALL`** file.
+4. The blur effect will be removed, and your folders will return to default.
