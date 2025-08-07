@@ -1,4 +1,5 @@
-# Solo Trip Plan 
+# **Solo Trip Plan**
+*(only for cold blooded people)*
 
 ### 🎒 **Gear Selection: Backpacks, Tents, Boots & More**  
 *(Optimized for Solo Jungle/Mountain Travel: 1 Day to 2 Months)*  
