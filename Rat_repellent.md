@@ -23,6 +23,11 @@ This is a simple and effective **DIY natural rat repellent** made from easily av
 6. Close the bottle and **shake well** to mix the ingredients.
 
 ---
+## 🐭 Screenshot
+
+<img width="1024" height="1536" alt="75c15e99-4834-40a4-93bf-ef6cd06fff22" src="https://github.com/user-attachments/assets/93df8dc5-1559-45db-b70f-d04dd7d59ee5" />
+
+---
 
 ## 🚫 How to Use
 
