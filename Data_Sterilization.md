@@ -224,7 +224,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**For questions or issues, please visit our [GitHub repository](https://github.com/yourusername/data-sterilization).**
+**For questions or issues, please visit our [GitHub repository](https://github.com/mohitscodiclab).**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="Made with Python">
